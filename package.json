@@ -1,0 +1,17 @@
+{
+  "name": "pipeline-operator-lt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "7.0.0-beta.42",
+    "@babel/node": "^7.0.0-beta.42",
+    "@babel/plugin-proposal-pipeline-operator": "7.0.0-beta.42"
+  }
+}
